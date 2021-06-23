@@ -1,9 +1,6 @@
 import React from "react";
-import { StyleSheet, Text, View } from "react-native";
-import { Projects } from "./src/screens/Projects";
+import { Navigation } from "./src/screens/Navigation";
 
 export default function App() {
-  return <Projects />;
+  return <Navigation />;
 }
-
-const styles = StyleSheet.create({});
