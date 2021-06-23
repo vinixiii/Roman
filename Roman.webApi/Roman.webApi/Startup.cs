@@ -48,7 +48,7 @@ namespace Roman.webApi
                     options.DefaultChallengeScheme = "JwtBearer";
                 })
                 // Define os pârametros de validação do token
-                .AddJwtBearer("", options =>
+                .AddJwtBearer("JwtBearer", options =>
                 {
                     options.TokenValidationParameters = new TokenValidationParameters
                     {
@@ -56,7 +56,9 @@ namespace Roman.webApi
                         ValidateAudience = true,
                         ValidateLifetime = true,
                         IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("Roman-chave-autenticacao")),
-                        ClockSkew = TimeSpan.FromMinutes(40)
+                        ClockSkew = TimeSpan.FromMinutes(40),
+                        ValidIssuer = "Roman.webApi",
+                        ValidAudience = "Roman.webApi"
                     };
                 });
         }
