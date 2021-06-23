@@ -1,5 +1,6 @@
 IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'Roman')
   BEGIN
+
     CREATE DATABASE Roman
 	END
 	GO
@@ -27,12 +28,12 @@ CREATE TABLE Usuario (
 );
 GO
 
-DROP TABLE IF EXISTS Especialidade;
+DROP TABLE IF EXISTS Equipe;
 GO
 
-CREATE TABLE Especialidade (
-  idEspecialidade INT PRIMARY KEY IDENTITY NOT NULL,
-  especialidade VARCHAR(200) NOT NULL
+CREATE TABLE Equipe(
+  idEquipe INT PRIMARY KEY IDENTITY NOT NULL,	
+  equipe VARCHAR(200) NOT NULL
 );
 GO
 
@@ -42,7 +43,7 @@ GO
 CREATE TABLE Professor (
   idProfessor INT PRIMARY KEY IDENTITY NOT NULL,
   idUsuario INT FOREIGN KEY REFERENCES Usuario (idUsuario) NOT NULL,
-  idEspecialidade INT FOREIGN KEY REFERENCES Especialidade (idEspecialidade) NOT NULL,
+  idEquipe INT FOREIGN KEY REFERENCES Equipe (idEquipe) NOT NULL,
   nome VARCHAR(200) NOT NULL,
   dataNascimento VARCHAR(200) NOT NULL
 );
@@ -79,12 +80,8 @@ CREATE TABLE Projeto(
 );
 GO
 
-DROP TABLE IF EXISTS Equipe;
-GO
 
-CREATE TABLE Equipe(
-  idEquipe INT PRIMARY KEY IDENTITY NOT NULL,
-  idProfessor INT FOREIGN KEY REFERENCES Professor (idProfessor) NOT NULL,
-  equipe VARCHAR(200) NOT NULL
-);
-GO
+
+
+
+
