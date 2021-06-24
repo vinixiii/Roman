@@ -14,7 +14,7 @@ namespace Roman.webApi.Domains
         }
 
         public int IdEquipe { get; set; }
-        [Required(ErrorMessage = "O campo nome da equipe é obrigatório")]
+        [Required(ErrorMessage = "O campo equipe é obrigatório")]
         public string NomeEquipe { get; set; }
 
         public virtual ICollection<Professor> Professors { get; set; }

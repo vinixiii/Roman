@@ -5,10 +5,10 @@ INSERT INTO TiposDeUsuario (titulo)
 VALUES ('Administrador'), ('Professor');
 GO
 
-INSERT INTO Usuario (idTipoUsuario, email, senha)
-VALUES (2, 'figueiroa@email.com', 'senha123'), (2, 'lordelo@email.com', 'senha456'),
-	   (2, 'taila@email.com', 'senha123'), (2, 'rafael@email.com', 'senha456'),
-	   (1, 'admin@email.com', 'senha123');
+INSERT INTO Usuario (idTipoUsuario, email, senha, nomeUsuario)
+VALUES (2, 'figueiroa@email.com', 'senha123', 'Vinícius Figueiroa'), (2, 'lordelo@email.com', 'senha456', 'Vinícius Lordelo' ),
+	   (2, 'taila@email.com', 'senha123', 'Taila Franco' ), (2, 'rafael@email.com', 'senha456', 'Rafael Cecatto'),
+	   (1, 'admin@email.com', 'senha123', 'Caique');
 GO
 
 INSERT INTO Equipe(nomeEquipe)
@@ -16,9 +16,9 @@ VALUES ( 'Desenvolvimento'), ('Redes'),
        ( 'Multimídia');
 GO
 
-INSERT INTO Professor(idUsuario, idEquipe, nome, dataNascimento)
-VALUES (1, 1, 'Vinícius Figueiroa', '13/07/1999'), (2, 2, 'Vinícius Lordelo', '19/10/2002'),
-	   (3, 2, 'Taila Franco', '17/10/1995'), (2, 3, 'Rafael Cecatto', '05/05/2000'); 
+INSERT INTO Professor(idUsuario, idEquipe, dataNascimento)
+VALUES (1, 1,'13/07/1999'), (2, 2,'19/10/2002'),
+	   (3, 2,'17/10/1995'), (2, 3, '05/05/2000'); 
 GO
 
 INSERT INTO Situacao (estado)

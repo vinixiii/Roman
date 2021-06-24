@@ -10,7 +10,7 @@ ON Usuario.idTipoUsuario = TiposDeUsuario.idTipoUsuario;
 GO
 
 
-SELECT idProfessor, nome, Usuario.email, dataNascimento AS Nascimento, nomeEquipe FROM Professor
+SELECT idProfessor, nomeUsuario as Nome, Usuario.email, dataNascimento AS Nascimento, nomeEquipe FROM Professor
 LEFT JOIN Usuario
 ON Professor.idUsuario = Usuario.idUsuario
 LEFT JOIN Equipe
@@ -25,9 +25,11 @@ LEFT JOIN Situacao
 ON Tema.idSituacao = Situacao.idSituacao
 GO
 
-SELECT idProjeto, nome, Tema.titulo AS Tema, Projeto.titulo, descricao FROM Projeto
+SELECT idProjeto, nomeUsuario as Nome, Tema.titulo AS Tema, Projeto.titulo, descricao FROM Projeto
 LEFT JOIN Professor
 ON Projeto.idProfessor = Professor.idProfessor
+LEFT JOIN Usuario
+ON Professor.idUsuario = Usuario.idUsuario
 LEFT JOIN Tema
 ON Projeto.idTema = Tema.idTema
 GO

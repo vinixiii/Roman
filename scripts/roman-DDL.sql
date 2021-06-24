@@ -1,4 +1,4 @@
-IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'Roman')
+﻿IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'Roman')
   BEGIN
 
     CREATE DATABASE Roman
@@ -24,7 +24,8 @@ CREATE TABLE Usuario (
   idUsuario INT PRIMARY KEY IDENTITY NOT NULL,
   idTipoUsuario INT FOREIGN KEY REFERENCES TiposDeUsuario (idTipoUsuario) NOT NULL,
   email VARCHAR(200) NOT NULL UNIQUE,
-  senha VARCHAR(200) NOT NULL
+  senha VARCHAR(200) NOT NULL,
+  nomeUsuario　VARCHAR(200) NOT NULL
 );
 GO
 
@@ -44,7 +45,6 @@ CREATE TABLE Professor (
   idProfessor INT PRIMARY KEY IDENTITY NOT NULL,
   idUsuario INT FOREIGN KEY REFERENCES Usuario (idUsuario) NOT NULL,
   idEquipe INT FOREIGN KEY REFERENCES Equipe (idEquipe) NOT NULL,
-  nome VARCHAR(200) NOT NULL,
   dataNascimento VARCHAR(200) NOT NULL
 );
 GO
@@ -79,6 +79,4 @@ CREATE TABLE Projeto(
   descricao VARCHAR(200) NOT NULL
 );
 GO
-
-
 

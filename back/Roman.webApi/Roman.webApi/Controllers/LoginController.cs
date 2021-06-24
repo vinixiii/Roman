@@ -30,6 +30,7 @@ namespace Roman.webApi.Controllers
             try
             {
                 Usuario usuarioBuscado = _usuarioRepository.Login(login.Email, login.Senha);
+                
                 if (usuarioBuscado == null)
                 {
                     return NotFound("Email ou senha invalidos");
@@ -45,7 +46,13 @@ namespace Roman.webApi.Controllers
                     new Claim(JwtRegisteredClaimNames.Jti, usuarioBuscado.IdUsuario.ToString()),
 
                     //Armazena na claim o id do tipo de usuario autenticado
-                    new Claim(ClaimTypes.Role, usuarioBuscado.IdTipoUsuario.ToString())
+                    new Claim(ClaimTypes.Role, usuarioBuscado.IdTipoUsuario.ToString()),
+
+                    // Armazena na Claim o tipo de usuário que foi autenticado (Administrador ou Comum) de forma personalizada
+                    new Claim("role", usuarioBuscado.IdTipoUsuario.ToString()),
+
+                    // Armazena na Claim o nome do usuário que foi autenticado
+                    new Claim(JwtRegisteredClaimNames.Name, usuarioBuscado.NomeUsuario)
                 };
 
                 //Define a chave de acesso ao token

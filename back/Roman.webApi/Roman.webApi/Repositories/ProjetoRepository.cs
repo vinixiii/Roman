@@ -54,7 +54,9 @@ namespace Roman.webApi.Repositories
 
         public List<Projeto> ListarTodos()
         {
-            return ctx.Projetos.Include(p => p.IdTemaNavigation).ToList();
+            return ctx.Projetos.Include(p => p.IdTemaNavigation)
+                .Include(p => p.IdProfessorNavigation)
+                .ToList();
         }
 
         public List<Projeto> ListarTodosPorProfessor(int id)

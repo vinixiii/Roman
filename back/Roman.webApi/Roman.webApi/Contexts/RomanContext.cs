@@ -42,7 +42,7 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<Equipe>(entity =>
             {
                 entity.HasKey(e => e.IdEquipe)
-                    .HasName("PK__Equipe__981ACF45AFC1E1E9");
+                    .HasName("PK__Equipe__981ACF4588B6421D");
 
                 entity.ToTable("Equipe");
 
@@ -58,7 +58,7 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<Professor>(entity =>
             {
                 entity.HasKey(e => e.IdProfessor)
-                    .HasName("PK__Professo__4E7C3C6D11A5658B");
+                    .HasName("PK__Professo__4E7C3C6DC5A5716E");
 
                 entity.ToTable("Professor");
 
@@ -73,12 +73,6 @@ namespace Roman.webApi.Contexts
                 entity.Property(e => e.IdEquipe).HasColumnName("idEquipe");
 
                 entity.Property(e => e.IdUsuario).HasColumnName("idUsuario");
-
-                entity.Property(e => e.Nome)
-                    .IsRequired()
-                    .HasMaxLength(200)
-                    .IsUnicode(false)
-                    .HasColumnName("nome");
 
                 entity.HasOne(d => d.IdEquipeNavigation)
                     .WithMany(p => p.Professors)
@@ -96,7 +90,7 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<Projeto>(entity =>
             {
                 entity.HasKey(e => e.IdProjeto)
-                    .HasName("PK__Projeto__8FCCED766ED9A279");
+                    .HasName("PK__Projeto__8FCCED766237A8A7");
 
                 entity.ToTable("Projeto");
 
@@ -134,7 +128,7 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<Situacao>(entity =>
             {
                 entity.HasKey(e => e.IdSituacao)
-                    .HasName("PK__Situacao__12AFD197E2841323");
+                    .HasName("PK__Situacao__12AFD197377C4036");
 
                 entity.ToTable("Situacao");
 
@@ -150,7 +144,7 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<Tema>(entity =>
             {
                 entity.HasKey(e => e.IdTema)
-                    .HasName("PK__Tema__BCD9EB483EA19E47");
+                    .HasName("PK__Tema__BCD9EB48FA87B8A2");
 
                 entity.ToTable("Tema");
 
@@ -175,7 +169,7 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<TiposDeUsuario>(entity =>
             {
                 entity.HasKey(e => e.IdTipoUsuario)
-                    .HasName("PK__TiposDeU__03006BFF5A7B16E3");
+                    .HasName("PK__TiposDeU__03006BFFB0AFB4BE");
 
                 entity.ToTable("TiposDeUsuario");
 
@@ -191,11 +185,11 @@ namespace Roman.webApi.Contexts
             modelBuilder.Entity<Usuario>(entity =>
             {
                 entity.HasKey(e => e.IdUsuario)
-                    .HasName("PK__Usuario__645723A6334E83B0");
+                    .HasName("PK__Usuario__645723A652D8806E");
 
                 entity.ToTable("Usuario");
 
-                entity.HasIndex(e => e.Email, "UQ__Usuario__AB6E61648371FA4E")
+                entity.HasIndex(e => e.Email, "UQ__Usuario__AB6E61644898C951")
                     .IsUnique();
 
                 entity.Property(e => e.IdUsuario).HasColumnName("idUsuario");
@@ -207,6 +201,12 @@ namespace Roman.webApi.Contexts
                     .HasColumnName("email");
 
                 entity.Property(e => e.IdTipoUsuario).HasColumnName("idTipoUsuario");
+
+                entity.Property(e => e.NomeUsuario)
+                    .IsRequired()
+                    .HasMaxLength(200)
+                    .IsUnicode(false)
+                    .HasColumnName("nomeUsuario");
 
                 entity.Property(e => e.Senha)
                     .IsRequired()

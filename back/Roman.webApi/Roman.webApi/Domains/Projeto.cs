@@ -8,6 +8,7 @@ namespace Roman.webApi.Domains
 {
     public partial class Projeto
     {
+
         public int IdProjeto { get; set; }
         [Required(ErrorMessage = "O campo idProfessor é obrigatório")]
         public int IdProfessor { get; set; }

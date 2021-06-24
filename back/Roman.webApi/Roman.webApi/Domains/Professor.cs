@@ -18,8 +18,6 @@ namespace Roman.webApi.Domains
         public int IdUsuario { get; set; }
         [Required(ErrorMessage = "O campo idEquipe é obrigatório")]
         public int IdEquipe { get; set; }
-        [Required(ErrorMessage = "O campo nome é obrigatório")]
-        public string Nome { get; set; }
         [Required(ErrorMessage = "O campo Data de nascimento é obrigatório")]
         public string DataNascimento { get; set; }
 
