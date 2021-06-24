@@ -21,7 +21,7 @@ export function Navigation() {
       <NavigationContainer>
         <Tab.Navigator
           tabBarPosition="bottom"
-          swipeEnabled={false}
+          swipeEnabled={true}
           initialRouteName="Projetos"
           tabBarOptions={{
             showIcon: true,
@@ -29,12 +29,12 @@ export function Navigation() {
               height: 0,
             },
             labelStyle: {
-              paddingBottom: 60,
+              textTransform: "none",
             },
             activeTintColor: "#3565A3",
             inactiveTintColor: "#c4c4c4",
             style: {
-              height: 60,
+              height: 65,
             },
           }}
           screenOptions={({ route }) => ({
