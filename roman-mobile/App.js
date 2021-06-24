@@ -1,9 +1,10 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import { Projects } from "./src/screens/Projects";
+
+import { Login } from "./src/screens/Login";
 
 export default function App() {
-  return <Projects />;
+ return <Login />;
 }
 
 const styles = StyleSheet.create({});
