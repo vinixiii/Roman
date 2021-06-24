@@ -12,7 +12,7 @@ const themesList = [
   { title: "API", status: "Inativo" },
 ];
 
-export function Temas() {
+export function Themes({ navigation }) {
   const renderItem = ({ item }) => (
     <View style={styles.theme}>
       <Text style={styles.themeText}>{item.title}</Text>
@@ -48,9 +48,9 @@ export function Temas() {
         colors={["rgba(246, 247, 249, 0.1)", "rgba(255, 255, 255, 1)"]}
         style={styles.footer}
       >
-        {/* <View style={styles.footer}> */}
-        <Button>Adicionar projeto</Button>
-        {/* </View> */}
+        <Button onPress={() => navigation.navigate("NewTheme")}>
+          Adicionar projeto
+        </Button>
       </LinearGradient>
     </View>
   );

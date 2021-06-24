@@ -3,39 +3,25 @@ import { StyleSheet, Text, View } from "react-native";
 
 import { Logo } from "../assets/images/Logo";
 
-export function Header() {
+export function Header({ secondaryPageTitle }) {
   return (
-    <View style={styles.container}>
-      <View style={styles.header}>
+    // <View style={styles.container}>
+    <View style={styles.header}>
+      {!secondaryPageTitle ? (
         <Logo style={styles.logo} />
-        <Text style={styles.headerText}>Olá, professor(a) Vinícius!</Text>
-      </View>
+      ) : (
+        <Text style={styles.headerTitle}>{secondaryPageTitle}</Text>
+      )}
+      <Text style={styles.headerText}>Olá, professor(a) Vinícius!</Text>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   header: {
-    backgroundColor: "#fff",
-    borderBottomLeftRadius: 6,
-    borderBottomRightRadius: 6,
-    paddingTop: 35,
-    paddingBottom: 10,
-    paddingLeft: 20,
-    paddingRight: 20,
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
-
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.22,
-    shadowRadius: 2.22,
-
-    elevation: 3,
   },
 
   logo: {
@@ -51,6 +37,11 @@ const styles = StyleSheet.create({
     shadowRadius: 2.22,
 
     elevation: 3,
+  },
+
+  headerTitle: {
+    fontSize: 22,
+    color: "#33547D",
   },
 
   headerText: {

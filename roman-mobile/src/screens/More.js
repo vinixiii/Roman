@@ -8,7 +8,7 @@ import { LinearGradient } from "expo-linear-gradient";
 // import { Header } from "../components/Header";
 import { Button } from "../components/Button";
 
-export function More() {
+export function More({ navigation }) {
   return (
     <View style={styles.container}>
       {/* <Header /> */}
@@ -17,7 +17,10 @@ export function More() {
         <Text style={styles.title}>Mais</Text>
 
         <View>
-          <TouchableOpacity style={styles.screen}>
+          <TouchableOpacity
+            style={styles.screen}
+            onPress={() => navigation.navigate("Profile")}
+          >
             <View style={styles.screenContent}>
               <Feather name="user" size={24} color="#c4c4c4" />
               <Text style={styles.screenText}>Perfil</Text>
@@ -34,12 +37,14 @@ export function More() {
         </View>
       </View>
 
-      <LinearGradient
+      {/* <LinearGradient
         colors={["rgba(246, 247, 249, 0.1)", "rgba(255, 255, 255, 1)"]}
         style={styles.footer}
       >
-        <Button>Adicionar projeto</Button>
-      </LinearGradient>
+        <Button>
+          Adicionar projeto
+        </Button>
+      </LinearGradient> */}
     </View>
   );
 }

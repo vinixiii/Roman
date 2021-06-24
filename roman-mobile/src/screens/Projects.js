@@ -10,7 +10,7 @@ import api from "../services/api";
 // import { Header } from "../components/Header";
 import { Button } from "../components/Button";
 
-export function Projects() {
+export function Projects({ navigation }) {
   const [projectsList, setProjectsList] = useState([]);
 
   async function getProject() {
@@ -55,9 +55,9 @@ export function Projects() {
         colors={["rgba(246, 247, 249, 0.1)", "rgba(255, 255, 255, 1)"]}
         style={styles.footer}
       >
-        {/* <View style={styles.footer}> */}
-        <Button>Adicionar projeto</Button>
-        {/* </View> */}
+        <Button onPress={() => navigation.navigate("NewProject")}>
+          Adicionar projeto
+        </Button>
       </LinearGradient>
     </View>
   );
