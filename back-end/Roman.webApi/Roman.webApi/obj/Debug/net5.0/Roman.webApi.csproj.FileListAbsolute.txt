@@ -1,0 +1,274 @@
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.exe
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.deps.json
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.json
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.dev.json
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.pdb
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.AssemblyReference.cache
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfoInputs.cache
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfo.cs
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CoreCompileInputs.cache
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.Manifest.cache
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.xml
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\scopedcss\bundle\Roman.webApi.styles.css
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CopyComplete
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.pdb
+C:\Users\taila\source\repos\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.genruntimeconfig.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.AssemblyReference.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfoInputs.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfo.cs
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CoreCompileInputs.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.pdb
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.exe
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.deps.json
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.json
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.dev.json
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.pdb
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.Manifest.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.xml
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\scopedcss\bundle\Roman.webApi.styles.css
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CopyComplete
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.genruntimeconfig.cache
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.xml
+C:\Users\taila\Desktop\roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.xml
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.AssemblyReference.cache
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfoInputs.cache
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfo.cs
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CoreCompileInputs.cache
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.xml
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.pdb
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.exe
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.deps.json
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.json
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.dev.json
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.pdb
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.xml
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.Manifest.cache
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.xml
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\scopedcss\bundle\Roman.webApi.styles.css
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CopyComplete
+C:\Users\taila\Downloads\Roman-2e1421146df27e0787652373acb9cf8bf3706809\Roman-2e1421146df27e0787652373acb9cf8bf3706809\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.genruntimeconfig.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.exe
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.deps.json
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.json
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.pdb
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Roman.webApi.xml
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.Manifest.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\staticwebassets\Roman.webApi.StaticWebAssets.xml
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\scopedcss\bundle\Roman.webApi.styles.css
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.csproj.CopyComplete
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\ref\Roman.webApi.dll
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.xml
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.pdb
+C:\Users\vinixiii\Desktop\agora vai\Roman\back\Roman.webApi\Roman.webApi\obj\Debug\net5.0\Roman.webApi.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Roman.webApi</name>
+    </assembly>
+    <members>
+        <member name="M:Roman.webApi.Controllers.ProjetosController.Get">
+            <summary>
+            Retorna uma lista com todos os projetos contendo tema
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.ProjetosController.Get(System.Int32)">
+            <summary>
+            Retorna uma lista com todos os projetos contendo tema por professor
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.ProjetosController.GetById(System.Int32)">
+            <summary>
+            Busca projeto pelo id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.ProjetosController.Post(Roman.webApi.Domains.Projeto)">
+            <summary>
+            Cadastra novo projeto 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.ProjetosController.Put(System.Int32,Roman.webApi.Domains.Projeto)">
+            <summary>
+            Atualiza um projeto pelo id
+            </summary>
+            <param name="id">id do projeto a ser atualizado</param>
+            <param name="projetoatualizado">Objeto a ser atualizado</param>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.TemasController.Get">
+            <summary>
+            Lista todos os temas cadastrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.TemasController.GetById(System.Int32)">
+            <summary>
+            Busca um tema pelo seu id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.TemasController.Post(Roman.webApi.Domains.Tema)">
+            <summary>
+            Cadastra um novo Tema
+            </summary>
+            <param name="novoTema"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.TemasController.Put(System.Int32,Roman.webApi.Domains.Tema)">
+            <summary>
+            Atualiza um tema
+            </summary>
+            <param name="id">Busca pelo id</param>
+            <param name="atualizarTema">atualiza o tema buscado</param>
+            <returns></returns>
+        </member>
+        <member name="M:Roman.webApi.Controllers.TemasController.Delete(System.Int32)">
+            <summary>
+            Deleta um tema
+            </summary>
+            <param name="id">Busca pelo id para deletar</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
