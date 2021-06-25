@@ -45,7 +45,10 @@ namespace Roman.webApi.Controllers
                     new Claim(JwtRegisteredClaimNames.Jti, usuarioBuscado.IdUsuario.ToString()),
 
                     //Armazena na claim o id do tipo de usuario autenticado
-                    new Claim(ClaimTypes.Role, usuarioBuscado.IdTipoUsuario.ToString())
+                    new Claim(ClaimTypes.Role, usuarioBuscado.IdTipoUsuario.ToString()),
+
+                    // Armazena na Claim o tipo de usuário que foi autenticado (Administrador ou Professor)
+                    new Claim("role", usuarioBuscado.IdTipoUsuario.ToString())
                 };
 
                 //Define a chave de acesso ao token
