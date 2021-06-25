@@ -1,7 +1,16 @@
 //Packages
 import React, { useState, useEffect } from "react";
-import { StyleSheet, Text, View, FlatList, ScrollView } from "react-native";
+import {
+  StyleSheet,
+  Text,
+  View,
+  FlatList,
+  ScrollView,
+  TouchableOpacity,
+} from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
+import AsyncStorage from "@react-native-async-storage/async-storage";
+import { Feather } from "@expo/vector-icons";
 
 //Services
 import api from "../services/api";
@@ -14,8 +23,18 @@ export function Projects({ navigation }) {
   const [projectsList, setProjectsList] = useState([]);
 
   async function getProject() {
-    const res = await api.get("/projeto");
-    setProjectsList(res.data);
+    try {
+      const token = await AsyncStorage.getItem("token");
+
+      const res = await api("/projetos", {
+        headers: {
+          Authorization: "Bearer " + token,
+        },
+      });
+      setProjectsList(res.data);
+    } catch (error) {
+      console.warn(error);
+    }
   }
 
   useEffect(() => {
@@ -40,12 +59,17 @@ export function Projects({ navigation }) {
       {/* <Header /> */}
 
       <View style={styles.main}>
-        <Text style={styles.title}>Projetos</Text>
+        <View style={styles.top}>
+          <Text style={styles.title}>Projetos</Text>
+          <TouchableOpacity onPress={getProject}>
+            <Feather name="refresh-ccw" size={24} color="#c4c4c4" />
+          </TouchableOpacity>
+        </View>
 
         <ScrollView style={styles.projectsList}>
           <FlatList
             data={projectsList}
-            keyExtractor={(item) => item.title}
+            keyExtractor={(item) => item.titulo}
             renderItem={renderItem}
           />
         </ScrollView>
@@ -73,6 +97,12 @@ const styles = StyleSheet.create({
     // flex: 1,
     paddingLeft: 20,
     paddingRight: 20,
+  },
+
+  top: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
   },
 
   title: {
